@@ -7,6 +7,7 @@
 @media all and (max-width: 670px) {
   .main {
     width: 100%;
+    padding-right: 10px;
   }
 
   .main h1 {
