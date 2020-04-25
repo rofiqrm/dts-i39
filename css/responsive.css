@@ -3,6 +3,7 @@
   .main h1 {
     font-size: 32px;
   }
+}
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   .main h1 {
