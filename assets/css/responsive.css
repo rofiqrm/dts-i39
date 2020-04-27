@@ -7,7 +7,7 @@
 	nav ul li a {
 		font-size: 16px;
 	}
-
+}
 
 @media (max-width: 900px) {
 	label.logo {
@@ -61,4 +61,4 @@
 		font-size: 12px;
 	}	
 	
-	
+}
