@@ -60,6 +60,7 @@ a.active, a:hover {
 	cursor: pointer;
 	display: none;
 	background-color: #0082e6;
+	position: fixed;
 	z-index: 10;
 }
 
